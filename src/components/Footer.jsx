@@ -33,7 +33,7 @@ function Footer() {
       </div>
     </div>
 
-     <div className="  flex flex-col items-center  justify-center border-gray-400 border-t">   
+     <div className="  flex flex-col items-center  justify-center ">   
        <div className="flex justify-center items-center sm:flex-col m-4">
        <p>© Copyright <span className="text-green-500"> La terrase restaurant </span> All Rights Reserved </p>
        <p> Developed by Moez Aloui</p>
